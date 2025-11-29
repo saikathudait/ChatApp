@@ -1,4 +1,4 @@
-# WhatsApp Clone
+# ChatApp Clone
 
 Real-time chat application built with Flask and SocketIO.
 
@@ -7,4 +7,5 @@ Real-time chat application built with Flask and SocketIO.
 - Real-time messaging
 - User authentication
 - Typing indicators
+
 
